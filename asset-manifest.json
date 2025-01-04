@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aadiiIncomeExpense/static/css/main.ebca1d5b.css",
+    "main.js": "/aadiiIncomeExpense/static/js/main.a0af7dd5.js",
+    "static/media/edit.png": "/aadiiIncomeExpense/static/media/edit.21622d04ce8af31a7190.png",
+    "static/media/trash-bin.png": "/aadiiIncomeExpense/static/media/trash-bin.e2d7a73c365ba8d4c545.png",
+    "index.html": "/aadiiIncomeExpense/index.html",
+    "main.ebca1d5b.css.map": "/aadiiIncomeExpense/static/css/main.ebca1d5b.css.map",
+    "main.a0af7dd5.js.map": "/aadiiIncomeExpense/static/js/main.a0af7dd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebca1d5b.css",
+    "static/js/main.a0af7dd5.js"
+  ]
+}
